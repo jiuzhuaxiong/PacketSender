@@ -201,6 +201,15 @@
                 <normaloff>:/icons/tx_udp.png</normaloff>:/icons/tx_udp.png</iconset>
               </property>
              </item>
+             <item>
+              <property name="text">
+               <string>SSL</string>
+              </property>
+              <property name="icon">
+               <iconset resource="packetsender.qrc">
+                <normaloff>:/icons/tx_ssl.png</normaloff>:/icons/tx_ssl.png</iconset>
+              </property>
+             </item>
             </widget>
            </item>
            <item>
